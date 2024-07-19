@@ -4,7 +4,7 @@ from docx import Document
 from typing import List
 
 
-keyWords = {"错", "难"}
+keyWords = {"错", "难", "时", "不会"}
 directory = r"D:\files\数学"
 
 
